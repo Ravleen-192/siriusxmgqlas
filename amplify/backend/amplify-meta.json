@@ -12,33 +12,7 @@
       "AmplifyAppId": "d1w2g1sgzug4ak"
     }
   },
-  "api": {
-    "siriusxmgqlas": {
-      "service": "AppSync",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "output": {
-        "authConfig": {
-          "defaultAuthentication": {
-            "authenticationType": "API_KEY",
-            "apiKeyConfig": {
-              "apiKeyExpirationDays": 7
-            }
-          },
-          "additionalAuthenticationProviders": []
-        },
-        "GraphQLAPIIdOutput": "c7x7ttyc3vajxfut67dvxsjygy",
-        "GraphQLAPIEndpointOutput": "https://ma4mwvg2zrfwlcviyngboexnle.appsync-api.us-west-2.amazonaws.com/graphql",
-        "GraphQLAPIKeyOutput": "da2-7gv4jkogsnfwrjttcfpq5unx74"
-      },
-      "providerMetadata": {
-        "s3TemplateURL": "https://s3.amazonaws.com/amplify-siriusxmgqlas-dev-112550-deployment/amplify-cfn-templates/api/cloudformation-template.json",
-        "logicalId": "apisiriusxmgqlas"
-      },
-      "lastPushTimeStamp": "2022-11-14T06:23:23.106Z",
-      "lastPushDirHash": "aYRGxM04fRKvd3vkC20HSVXnFu4="
-    }
-  },
+  "api": {},
   "hosting": {
     "amplifyhosting": {
       "service": "amplifyhosting",

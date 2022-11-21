@@ -1,7 +1,0 @@
-{
-    "AppSyncApiName": "siriusxmgqlas",
-    "DynamoDBBillingMode": "PAY_PER_REQUEST",
-    "DynamoDBEnableServerSideEncryption": false,
-    "S3DeploymentBucket": "amplify-siriusxmgqlas-dev-112550-deployment",
-    "S3DeploymentRootKey": "amplify-appsync-files/ede6a1653c9b21de742c35925d146457dd94a9ca"
-}
